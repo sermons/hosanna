@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Cry Out, "Hosanna!"
+## Luke 19:35-40
 
-[![Build status](https://api.travis-ci.com/sermons/reveal-skel.svg)](https://travis-ci.com/github/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://api.travis-ci.com/sermons/hosanna.svg)](https://travis-ci.com/github/sermons/hosanna)
+[![Node deps](https://david-dm.org/sermons/hosanna.svg)](https://david-dm.org/sermons/hosanna)
+[![Node devDeps](https://david-dm.org/sermons/hosanna/dev-status.svg)](https://david-dm.org/sermons/hosanna?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
