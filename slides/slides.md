@@ -12,14 +12,14 @@
 
 ---
 ## The Triumphal Entry
-+ *Matthew* [21:1-11](# "ref")
-  + find donkey, quote Zech9, Hosanna/Ps118, "who is this?"
-+ *Mark* [11:1-11](# "ref")
-  + find donkey, Hosanna/Ps118
-+ **Luke** [19:28-44](# "ref")
-  + find donkey, Ps118, stones cry out
-+ *John* [12:12-19](# "ref")
-  + Hosanna/Ps118, quote Zech9, Laz, whole world after Him
++ *Matthew* [(21:1-11)](# "ref"):
+  find donkey, quote Zech9, Hosanna/Ps118, "who is this?"
++ *Mark* [(11:1-11)](# "ref"):
+  find donkey, Hosanna/Ps118
++ **Luke** [(19:28-44)](# "ref"):
+  find donkey, Ps118, stones cry out
++ *John* [(12:12-19)](# "ref"):
+  Hosanna/Ps118, quote Zech9, Laz, "whole world after Him!"
 
 >>>
 + Today's passage: triumphal entry
@@ -134,7 +134,8 @@ in the **name** of the Lord! <br>
 O Lord, we pray, give us **success**!
 
 [26](# "ref")
-**Blessed** is he who comes in the **name** of the Lord!<br>
+**Blessed** is he who comes <br>
+in the **name** of the Lord!<br>
 We bless you from the house of the Lord.
 
 [Psalm 118:25-26 (ESV)](# "ref")
