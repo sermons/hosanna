@@ -3,7 +3,33 @@
 ## Luke 19:35-40
 
 >>>
-
++ 1. humble (donkey): Zech9 humble/afflicted, just+savior
+  + clothes on road: as for king
+  + riding young donkey: as humble servant
+  + pathway to glory went through suffering
+  + Q: 
++ 2. cry out (branches): 
+  + glory in highest: cf angels at Christmas
+  + Lk audience Gentile so avoided Heb
+  + Ps118: suffering => rescue
+  + hosanna: save, implore/beseech, directed plea
+  + to only one who can rescue
+  + with assurance bc what we've already seen Him do
+  + Jn: disciples knew not then what they did
+  + only after Christ glorified
+  + e.g., pandemic: ack feelings of loss
+  + Q: how do I cope with suffering? Where do i turn? 
++ 3. testify (stones): 
+  + rebuke: upon honor: tell them it's not right/proper
+  + prior always kept low profile, told healed to stay quiet
+  + now, approaching culmination of mission, approved + even planned celebration
+  + deliberate: provided for donkey
+  + knew coming to Jerusalem would bring conflict with legalistic righteousness to a head
+  + did not move in secret but taught daily in temple courts
+  + stones: enduring, bear witness
+  + Jn: testify to Lazarus
+  + (Morse: what God hath wrought)
+  + Q: will I bear witness to what God has done? 
 
 ---
 <!-- .slide: data-background="white" -->
