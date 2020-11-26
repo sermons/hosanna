@@ -143,10 +143,21 @@ We bless you from the house of the Lord.
 + "We plead, Yahweh, save now! We plead, Yahweh, cause us to advance now!"
 + **Plead** + **now**: earnest request from subord, not entitlement
   + implore/beseech, directed plea
-+ **Save** (hosanna): rescue
++ **Save** (hosanna): rescue (as from enemy / ext. threat)
   + crowds literally calling out Jesus' name
++ **Success**: rush forward, advance (as army), prosper
 + to only one who can rescue
 + with assurance bc what we've already seen Him do
+
+---
+His disciples did **not understand** these things at first, <br>
+but when Jesus was **glorified**, then they remembered  <br>
+that these things had been **written** about him  <br>
+and had been **done** to him.
+
+[John 21:16 (ESV)](# "ref")
+
+>>>
 + Jn: disciples knew not then what they did
 + only after Christ glorified
 + e.g., pandemic: ack feelings of loss
