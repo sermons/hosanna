@@ -12,14 +12,14 @@
 
 ---
 ## The Triumphal Entry
-+ *Matthew* [(21:1-11)](# "ref"):
-  find donkey, quote Zech9, Hosanna/Ps118, "who is this?"
-+ *Mark* [(11:1-11)](# "ref"):
-  find donkey, Hosanna/Ps118
-+ **Luke** [(19:28-44)](# "ref"):
-  find donkey, Ps118, stones cry out
-+ *John* [(12:12-19)](# "ref"):
-  Hosanna/Ps118, quote Zech9, Laz, "whole world after Him!"
++ **Matthew** [(21:1-11)](# "ref"): *prophecy*
+  + find donkey, Zech9, Hosanna/Ps118, "who is this?"
++ **Mark** [(11:1-11)](# "ref"): *narrative*
+  + find donkey, Hosanna/Ps118
++ **Luke** [(19:28-44)](# "ref"): to *Gentiles*
+  + find donkey, Ps118, stones cry out
++ **John** [(12:12-19)](# "ref"): *person* of Christ
+  + Hosanna/Ps118, Zech9, Laz, "whole world after Him!"
 
 >>>
 + Today's passage: triumphal entry
@@ -104,6 +104,9 @@ on a colt, the foal of a donkey.
 + **Righteous** (just, vindicated)
   + **Saviour** (rescue, deliver, Jesus)
 + **Humble** (afflicted, bowed down)
++ Crowds ack. Jesus to be **Messiah**/Christ
+  + why Pharisees took **offense**
++ But didn't realize what **kind** of King
 
 ---
 <!-- .slide: data-background="white" -->
