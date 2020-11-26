@@ -3,39 +3,27 @@
 ## Luke 19:35-40
 
 >>>
-+ 1. humble (donkey): Zech9 humble/afflicted, just+savior
-  + clothes on road: as for king
-  + riding young donkey: as humble servant
-  + pathway to glory went through suffering
-  + Q: 
-+ 2. cry out (branches): 
-  + glory in highest: cf angels at Christmas
-  + Lk audience Gentile so avoided Heb
-  + Ps118: suffering => rescue
-  + hosanna: save, implore/beseech, directed plea
-  + to only one who can rescue
-  + with assurance bc what we've already seen Him do
-  + Jn: disciples knew not then what they did
-  + only after Christ glorified
-  + e.g., pandemic: ack feelings of loss
-  + Q: how do I cope with suffering? Where do i turn? 
-+ 3. testify (stones): 
-  + rebuke: upon honor: tell them it's not right/proper
-  + prior always kept low profile, told healed to stay quiet
-  + now, approaching culmination of mission, approved + even planned celebration
-  + deliberate: provided for donkey
-  + knew coming to Jerusalem would bring conflict with legalistic righteousness to a head
-  + did not move in secret but taught daily in temple courts
-  + stones: enduring, bear witness
-  + Jn: testify to Lazarus
-  + (Morse: what God hath wrought)
-  + Q: will I bear witness to what God has done? 
 
 ---
 <!-- .slide: data-background="white" -->
 # Q0
 
 >>>
+
+---
+## The Triumphal Entry
++ *Matthew* [21:1-11](# "ref")
+  + find donkey, quote Zech9, Hosanna/Ps118, "who is this?"
++ *Mark* [11:1-11](# "ref")
+  + find donkey, Hosanna/Ps118
++ **Luke** [19:28-44](# "ref")
+  + find donkey, Ps118, stones cry out
++ *John* [12:12-19](# "ref")
+  + Hosanna/Ps118, quote Zech9, Laz, whole world after Him
+
+>>>
++ Today's passage: triumphal entry
++ In all 4 Gospels, each w/diff **emphasis**
 
 ******
 And they brought it to Jesus, <br>
@@ -76,11 +64,12 @@ the very stones would cry out.”
 
 [Luke 19:35-40 (ESV) (p.3/3)](# "ref")
 
-
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Hosanna! [(Luke 19)](# "ref")
-1. Afflicted 
+1. Humble (donkey) [(v35-36)](# "ref")
+1. Cry Out (branches) [(v37-38)](# "ref")
+1. Testify (stones) [(v39-40)](# "ref")
 
 ---
 And they brought it to Jesus, <br>
@@ -92,6 +81,11 @@ And as he rode along, <br>
 they spread their **cloaks** on the road. 
 
 [Luke 19:35-36 (ESV)](# "ref")
+
+>>>
++ clothes on road: as for king
++ riding young donkey: as humble servant
++ pathway to glory went through suffering
 
 ---
 **Rejoice** greatly, O daughter of Zion!<br>
@@ -105,9 +99,15 @@ on a colt, the foal of a donkey.
 
 [Zechariah 9:9 (ESV)](# "ref")
 
+>>>
++ Describes the **King**:
++ **Righteous** (just, vindicated)
+  + **Saviour** (rescue, deliver, Jesus)
++ **Humble** (afflicted, bowed down)
+
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I choose the path of **humility**?
 
 ---
 ## outline
@@ -124,6 +124,11 @@ in the **name** of the Lord! <br>
 
 [Luke 19:37-38 (ESV)](# "ref")
 
+>>>
++ glory in highest: cf angels at Christmas
++ Lk audience Gentile so avoided Heb
++ Ps118: suffering => rescue
+
 ---
 **Save us**, we **pray**, O Lord!<br>
 O Lord, we pray, give us **success**!
@@ -134,9 +139,26 @@ We bless you from the house of the Lord.
 
 [Psalm 118:25-26 (ESV)](# "ref")
 
+>>>
++ "We plead, Yahweh, save now! We plead, Yahweh, cause us to advance now!"
++ **Plead** + **now**: earnest request from subord, not entitlement
+  + implore/beseech, directed plea
++ **Save** (hosanna): rescue
+  + crowds literally calling out Jesus' name
++ to only one who can rescue
++ with assurance bc what we've already seen Him do
++ Jn: disciples knew not then what they did
++ only after Christ glorified
++ e.g., pandemic: ack feelings of loss
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# In what do I need **rescue**?
+
+>>>
++ How do I **cope** with **suffering**?
++ Where do I turn? 
++ Cry out, "Hosanna!" to the Lord: "Save!"
 
 ---
 ## outline
@@ -152,7 +174,29 @@ the very **stones** would cry out.”
 
 [Luke 19:39-40 (ESV)](# "ref")
 
+>>>
++ rebuke: upon honor: tell them it's not right/proper
++ prior always kept low profile, told healed to stay quiet
++ now, approaching culmination of mission, approved + even planned celebration
++ deliberate: provided for donkey
++ knew coming to Jerusalem would bring conflict with legalistic righteousness to a head
++ did not move in secret but taught daily in temple courts
++ stones: enduring, bear witness
++ Jn: testify to Lazarus
+
+---
+The crowd that had been with him <br>
+when he called **Lazarus** out of the tomb <br>
+and **raised** him from the dead <br>
+continued to **bear witness**. 
+
+[18](# "ref")
+The **reason** why the crowd went to meet him <br>
+was that they heard he had done this **sign**.
+
+[John 12:17-18 (ESV)](# "ref")
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I bear **witness** to what God has **done**? 
 
