@@ -298,10 +298,17 @@ and had been **done** to him.
 ## outline
 
 >>>
-
++ Our Saviour has **promised** rescue for us
+  + if we **follow** His path of **humility**
++ "Hosanna" means earnest **plea** for Him to save us
+  + mixed with **thanksgiving** for what He's done
++ **Testimony** of who He is, His **mighty** deeds
+  + will reach the **ends** of the earth,
+  + whether I **agree** or not!
++ Not **everyone** in the crowd was **rejoicing**:
 
 ---
-And some of the Pharisees in the crowd <br>
+And some of the **Pharisees** in the crowd <br>
 said to him, “Teacher, **rebuke** your disciples.” 
 
 [40](# "ref")
@@ -312,14 +319,17 @@ the very **stones** would cry out.”
 [Luke 19:39-40 (ESV)](# "ref")
 
 >>>
-+ rebuke: upon honor: tell them it's not right/proper
-+ prior always kept low profile, told healed to stay quiet
-+ now, approaching culmination of mission, approved + even planned celebration
-+ deliberate: provided for donkey
-+ knew coming to Jerusalem would bring conflict with legalistic righteousness to a head
-+ did not move in secret but taught daily in temple courts
-+ stones: enduring, bear witness
-+ Jn: testify to Lazarus
++ Rebuke: upon **honor**: tell them it's not **right**/proper
++ Before: always kept **low profile**, told healed to stay **quiet**
++ Now, approaching **culmination** of mission of salvation:
+  + **Approved** + even plan public celeb: provid **donkey**
++ **Knew** coming to Jerusalem would bring to a head the
+  + **conflict** with legalistic righteousness 
++ Didn't move in **secret** but **taught** daily in temple courts
++ **Stones** in OT: distg. char. not **silence** / diffic speak
+  + but **endure**, bear **witness** (even Hab2)
++ e.g., **Joshua** leading Isr across **Jordan**:
+  + bring up 12 large **stones** from riverbed
 
 ---
 This shall be a **sign** among you; <br>
@@ -334,7 +344,14 @@ before the ark of the covenant of the Lord’
 [Joshua 4:6-7 (ESV)](# "ref")
 
 >>>
-+ even Hab2 about bearing **witness**
++ Stones signify **markers**, memorials, delib. + immovable
++ Next gen **asks** about their **meaning**:
+  + chance to **pass on** testimony of God's mighty acts
++ So in every gen, **stones** of memorial **cry out**,
+  + attesting to **miracles** + signs of God's salvation
++ **John's** acct of triumphal entry mentions
+  + 2 **crowds**: one from Bethany going w/Jesus
+  + one from Jeru coming out to **meet** Him:
 
 ---
 The crowd that had been with him <br>
@@ -347,6 +364,11 @@ The **reason** why the crowd went to meet him <br>
 was that they heard he had done this **sign**.
 
 [John 12:17-18 (ESV)](# "ref")
+
+>>>
++ Crowd that went w/Jesus had **seen** Him raise Laz
+  + bore **witness** to this to 
++ Crowd coming out from **Jeru**: passing on the testimony
 
 ---
 <!-- .slide: data-background="white" -->
