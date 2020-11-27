@@ -369,10 +369,44 @@ was that they heard he had done this **sign**.
 + Crowd that went w/Jesus had **seen** Him raise Laz
   + bore **witness** to this to 
 + Crowd coming out from **Jeru**: passing on the testimony
++ So the two crowds **together** could shout, "Hosanna!":
+  + Rejoicing in what we've already **seen** of God's rescue
+  + Earnestly **pleading** for His rescue to come
++ Does my **family** have stones of **memorial**?
+  + Signif **markers** to help us remember God's provid
++ Often **caught up** in day-to-day **survival**
+  + Miss steady **progress** of God's work in our **hearts**
+  + like gparents noticing how **quickly** gkids grow up
++ Review old **photos**, remember what it was like **before**
+  + Give **thanks** to God for what He's **done**
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I bear **witness** to what God has **done**? 
 
+>>>
++ Jesus' triumphal entry into Jerusalem reminds us of
++ His **example** as the humble suffering servant, on donkey
++ His power to **rescue** + redeem: crowds cry, "Hosanna!":
+  + **rejoicing** over what He's done
+  + earnest **plea** for what He will do
++ The **testimony** of His miraculous **works**:
+  + We join with the **stones** of memorial 
+  + to **pass on** to next gen the **historical** facts
+  + of His **intervention** in our lives
++ To **bear witness** to what God hath **wrought**
+
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
+
+>>>
++ Jesus, Saviour, Messiah, Son of God, Victorious King:
++ You came to earth in **humility** + affliction,
+  + **fulfillment** of Father's plan spoken through prophets
+  + Teach us always to **choose** Your path of humility
++ You came with **power** of God to give us **new life**:
+  + Teach us to **rejoice** in Your salvation
+  + and take **refuge** in You for your imminent rescue
++ You **act** in our lives, even today,
+  + the **testimony** of which cannot be **silenced**:
+  + Teach us to **remember**, and **bear witness** to Your power
