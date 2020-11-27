@@ -39,13 +39,13 @@
 ---
 ## The Triumphal Entry
 + **Matthew 21:1-11** *(Messiah)*:
-  find donkey, Zech9, Hosanna/Ps118, "who is this?"
+  find donkey, Zech9, Hosanna / Ps118, "who is this?"
 + **Mark 11:1-11** *(Suffering Servant)*:
-  find donkey, Hosanna/Ps118
+  find donkey, Hosanna / Ps118
 + **Luke 19:28-44** *(Saviour to all)*:
   find donkey, Ps118, stones cry out
 + **John 12:12-19** *(Son of God)*:
-  Hosanna/Ps118, Zech9, Laz, "whole world after Him!"
+  Hosanna / Ps118, Zech9, Laz, "whole world after Him!"
 
 >>>
 + Today's passage: **triumphal entry**
@@ -300,9 +300,13 @@ We bless you from the house of the Lord.
 + Acct in **John** indicates:
 
 ---
-His disciples did **not understand** these things at first, <br>
-but when Jesus was **glorified**, then they remembered  <br>
-that these things had been **written** about him  <br>
+His disciples did **not understand** <br>
+these things at first,
+
+but when Jesus was **glorified**, <br>
+then they **remembered** that these things
+
+had been **written** about him <br>
 and had been **done** to him.
 
 [John 21:16 (ESV)](# "ref")
@@ -324,7 +328,7 @@ and had been **done** to him.
 
 ---
 <!-- .slide: data-background="white" -->
-# In what do I need **rescue**?
+# In what <br> do I need **rescue**?
 
 ---
 ## outline
@@ -414,7 +418,7 @@ was that they heard he had done this **sign**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I bear **witness** to what God has **done**? 
+# Do I bear **witness** <br> to what <br> God has **done**? 
 
 >>>
 + Jesus' triumphal entry into Jerusalem reminds us of
