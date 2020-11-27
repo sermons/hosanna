@@ -107,6 +107,9 @@ on a colt, the foal of a donkey.
 + Crowds ack. Jesus to be **Messiah**/Christ
   + why Pharisees took **offense**
 + But didn't realize what **kind** of King
++ Jesus was a man well-acquainted with **sorrows**
+  + v41-44 **wept** over Jerusalem
+  + her failure to **recognize** her day of redemption
 
 ---
 <!-- .slide: data-background="white" -->
