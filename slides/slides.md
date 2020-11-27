@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="title" -->
 # Cry Out, "Hosanna!"
 ## Luke 19:35-40
 
@@ -98,7 +98,7 @@ the very stones would cry out.”
 [Luke 19:35-40 (ESV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="outline" class="outline" -->
 ## Hosanna! [(Luke 19)](# "ref")
 1. **Follow** the Humble King [(v35-36)](# "ref")
 1. **Cry Out**, "Hosanna!" [(v37-38)](# "ref")
@@ -205,7 +205,11 @@ and they did not **grasp** what was said.
 # Will I **choose** the path of **humility**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
+## Hosanna! [(Luke 19)](# "ref")
+1. Follow the Humble King [(v35-36)](# "ref")
+1. **Cry Out, "Hosanna!"** [(v37-38)](# "ref")
+1. Testify to What He Has Done [(v39-40)](# "ref")
 
 >>>
 + Our Saviour + King **promises** to rescue us
@@ -338,7 +342,11 @@ and had been **done** to him.
 # In what <br> do I need **rescue**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
+## Hosanna! [(Luke 19)](# "ref")
+1. Follow the Humble King [(v35-36)](# "ref")
+1. Cry Out, "Hosanna!" [(v37-38)](# "ref")
+1. **Testify to What He Has Done** [(v39-40)](# "ref")
 
 >>>
 + 1. Our Saviour has **promised** rescue for us
@@ -440,7 +448,7 @@ was that they heard he had done this **sign**.
 + To **bear witness** to what God hath **wrought**
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="empty" -->
 
 >>>
 + Jesus, Saviour, Messiah, Son of God, Victorious King:
