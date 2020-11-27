@@ -9,7 +9,8 @@
   + **family** oblig., **work** / school
   + **health** concerns, **money** concerns
   + even remem. to wear **mask** / distancing
-+ Feel **wronged**, cheated, unfairly treated, misunderstood
++ Things in our lives we feel are just **wrong**:
+  + Feel **cheated**, unfairly treated, misunderstood
   + Get **frust.**, angry, tired, bitter
 
 ---
@@ -20,8 +21,8 @@
 + Do the celebrations of a group of **Israelites**
   + on the other side of the world, 2000 yrs ago
   + give **me** any reason to celeb now in 21st cent?
-+ As we turn our attention off our own **complaints**
-  + toward **Christ's** mighty acts of deliverance
++ Today, as we turn our attention off our own **complaints**
+  + and toward **Christ's** mighty acts of deliverance
 + Find the meaning of the word, "**Hosanna!**"
   + See the **power** of God manifest in our lives
   + Renewed **confidence** to testify to what God has done
@@ -51,10 +52,11 @@
 + Today's passage: **triumphal entry**
 + Recorded in all 4 Gospels, each w/diff **emphasis**
   + Matt: fulfill OT **prophecy**
-  + Mk: **narrative**, misunderstood as suff. svt
+  + Mk: **narrative**, Jesus as Suff. Servant: misund.
   + Lk: **comprehensive** account for non-Jews
   + Jn: person of Jesus as **God** made man: "I am"
 + Luke highlights Jesus' preparation of the **donkey**:
+  + **read** together Luke 19:35-40 (ESV):
 
 ******
 And they brought it to Jesus, <br>
@@ -125,10 +127,10 @@ they spread their **cloaks** on the road.
 [Luke 19:35-36 (ESV)](# "ref")
 
 >>>
-+ Clothes on road: as for **king**
++ Clothes on road: reverence for **king**
 + Riding young donkey: as humble **servant**
-+ Pathway to **glory** went through **suffering**
-+ Matt (OT **prophecies**) xrefs **Zech**:
++ Indicate pathway to **glory** through **suffering**
++ Acct in Matt (OT **prophecies**) xrefs **Zech**:
 
 ---
 **Rejoice** greatly, O daughter of Zion!<br>
@@ -147,8 +149,8 @@ on a colt, the foal of a donkey.
 + v9 **describes** the King:
   + **Righteous** (just, vindicated)
   + **Saviour** (rescue, deliver, Jesus)
-  + **Humble** (afflicted, bowed down)
-+ Crowds ack. Jesus to be **Messiah**/Christ:
+  + **Humble** (bowed down, afflicted, suffering)
++ Quoting this vs, crowds ack. Jesus as **Messiah**/Christ:
   + it's why Pharisees took **offense**
 + But didn't realize what **kind** of King
 + In fact, not even the **disciples** understood
@@ -168,23 +170,26 @@ and they did not **grasp** what was said.
 [Luke 18:31,34 (ESV)](# "ref")
 
 >>>
-+ Abused, **killed**, rise on third day
-  + Disciples, even as **helped fulfill** prophecy, misund
-+ Theme mid-Luke: misunderst **kingdom** of God, Messiah
++ (Abused, **killed**, rise on third day)
++ Disciples, even as **helped fulfill** prophecy, misunder
++ Theme mid-Luke: misunder **kingdom** of God, Messiah
 + Jesus was a man well-acquainted with **sorrows**
   + v41-44 **wept** over Jerusalem
   + her failure to **recognize** her day of redemption
   + He **knew** the suffering He was about to go through
 + Jesus is the **victorious** conquerer, strong to **save**
-  + **how** He did it was by **humbling** Himself
-+ in **obedience** to Father's plan, **sacrifice** for sins
+  + but **how** He did it was by **humbling** Himself
+  + in **obedience** to Father's plan, **sacrifice** for sins
 + If this is how my **Master** and **Shepherd** walked,
   + will I **choose** to follow in His steps?
++ Will I choose the path of **humility**?
+  + (if response is, "I'm **already** humble enough!")
 
 ---
 >>>
-+ Every day, **stressors** that challg: **project** not as plan
-  + **Kids** / parents that don't do what I tell them
++ Every day, **stressors** that challenge us:
+  + **Project** doesn't go as planned
+  + **Kids** / parents don't do what I tell them
   + **Insulted**, belittled, or laughed at
 + No **choice** how others treat me, but choose how I **respond**
 + e.g., when young, single, **hot-headed**: stressed by **church**
@@ -223,12 +228,14 @@ in the **name** of the Lord! <br>
 [Luke 19:37-38 (ESV)](# "ref")
 
 >>>
-+ **Jesus** set in motion, **disciples** made loud, **crowds** joined
-  + **Works** seen from Galilee to Jericho to Bethany
-+ **Glory** in highest: cf **angels** at Christmas
-+ **Blessed**: Lk audience **non-Jew** so avoided Heb
++ **Jesus** set in motion the celebration,
+  + **disciples** made it loud, **crowds** joined in
++ Proclaim **works** seen from Galilee to Jericho to Bethany
++ **Peace**, glory: cf **angels** at Christmas
++ **Blessed**: Lk to **non-Jewish** audience, so avoided Heb
   + but other gospels use **Hosanna**
 + Quoting **Ps118**: journey from **affliction** to **rescue**
+  + A few snippets; read the rest:
 
 ---
 [5](# "ref")
@@ -285,7 +292,7 @@ We bless you from the house of the Lord.
 [Psalm 118:25-26 (ESV)](# "ref")
 
 >>>
-+ Parallel structure: "We plead, Yahweh, **save** now!"
++ Parallel structure v25: "We plead, Yahweh, **save** now!"
   + We plead, Yahweh, cause us to **advance** now!"
 + **Save** (hosanna): rescue (as from enemy / ext. threat)
   + Crowds literally calling out Jesus' **name**
@@ -293,9 +300,9 @@ We bless you from the house of the Lord.
 + Pair **plead** + **now**: implore, beseech, directed plea
   + earnest **request** from subord, not demand from entitle
 + **Directed**: to the only one who can save
-  + with **assurance** bc what we've already seen Him do
+  + w/**assurance** bc of what we've already seen Him do
 + So discip's **actions** in Lk19 fulfilled **prophecy** in Ps118
-  + befit Jesus: **Saviour** to whom Hosanna is directed
+  + befit Jesus: **Saviour** to whom "Hosanna" is directed
   + the One who opens up the **gates** of righteousness
 + Acct in **John** indicates:
 
@@ -334,11 +341,11 @@ and had been **done** to him.
 ## outline
 
 >>>
-+ Our Saviour has **promised** rescue for us
++ 1. Our Saviour has **promised** rescue for us
   + if we **follow** His path of **humility**
-+ "Hosanna" means earnest **plea** for Him to save us
++ 2. "Hosanna" means earnest **plea** for Him to save us
   + mixed with **thanksgiving** for what He's done
-+ **Testimony** of who He is, His **mighty** deeds
++ 3. The **testimony** of who He is, His **mighty** deeds
   + will reach the **ends** of the earth,
   + whether I **agree** or not!
 + Not **everyone** in the crowd was **rejoicing**:
