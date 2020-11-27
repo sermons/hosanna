@@ -3,12 +3,38 @@
 ## Luke 19:35-40
 
 >>>
++ Today's passage is about a **celebration**!
++ But sometimes can be **hard** to celeb or **worship** God
++ **Stressors**: endless **to-do** lists
+  + **family** oblig., **work** / school
+  + **health** concerns, **money** concerns
+  + even remem. to wear **mask** / distancing
++ Feel **wronged**, cheated, unfairly treated, misunderstood
+  + Get **frust.**, angry, tired, bitter
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# What do I have to **celebrate** about?
 
 >>>
++ Do the celebrations of a group of **Israelites**
+  + on the other side of the world, 2000 yrs ago
+  + give **me** any reason to celeb now in 21st cent?
++ As we turn our attention off our own **complaints**
+  + toward **Christ's** mighty acts of deliverance
++ Find the meaning of the word, "**Hosanna!**"
+  + See the **power** of God manifest in our lives
+  + Renewed **confidence** to testify to what God has done
++ Together, behold **Lamb of God**:
+
+---
+(prayer)
+>>>
++ **Illuminate** our hearts w/**light** of Your truth
++ **Teach** us who You are, as Saviour, Redeemer, King
++ **Mould** us to walk in Your footsteps 
+  + in **humility** + obedience
++ **Strengthen** us to proclaim boldly the witness of Your power
 
 ---
 ## The Triumphal Entry
@@ -22,7 +48,7 @@
   Hosanna/Ps118, Zech9, Laz, "whole world after Him!"
 
 >>>
-+ Today's passage: triumphal entry
++ Today's passage: **triumphal entry**
 + Recorded in all 4 Gospels, each w/diff **emphasis**
   + Matt: fulfill OT **prophecy**
   + Mk: **narrative**, misunderstood as suff. svt
@@ -77,9 +103,15 @@ the very stones would cry out.”
 1. **Testify** to What He Has Done [(v39-40)](# "ref")
 
 >>>
-+ 1. Our **Saviour's** promise
-+ 2. Our **response** in faith
-+ 3. Our **witness** to the world
++ 1. Our **Saviour's** promise:
+  + path to **salvation** through **humility** + affliction
++ 2. Our **response** in faith:
+  + **thanksgiving** for what He's done
+  + earnest **plea** for rescue He will bring about
++ 3. Our **witness** to the world:
+  + **stones** of memorial attesting to His power
++ Disciples **prepared** a 
+  + seemingly **dissonant** procession for Him:
 
 ---
 And they brought it to Jesus, <br>
