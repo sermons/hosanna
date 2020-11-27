@@ -12,14 +12,14 @@
 
 ---
 ## The Triumphal Entry
-+ **Matthew** [(21:1-11)](# "ref"): *prophecy*
-  + find donkey, Zech9, Hosanna/Ps118, "who is this?"
-+ **Mark** [(11:1-11)](# "ref"): *narrative*
-  + find donkey, Hosanna/Ps118
-+ **Luke** [(19:28-44)](# "ref"): to *Gentiles*
-  + find donkey, Ps118, stones cry out
-+ **John** [(12:12-19)](# "ref"): *person* of Christ
-  + Hosanna/Ps118, Zech9, Laz, "whole world after Him!"
++ **Matthew 21:1-11** *(prophecy)*:
+  find donkey, Zech9, Hosanna/Ps118, "who is this?"
++ **Mark 11:1-11** *(narrative)*:
+  find donkey, Hosanna/Ps118
++ **Luke 19:28-44** *(to Gentiles)*:
+  find donkey, Ps118, stones cry out
++ **John 12:12-19** *(person of Christ)*:
+  Hosanna/Ps118, Zech9, Laz, "whole world after Him!"
 
 >>>
 + Today's passage: triumphal entry
