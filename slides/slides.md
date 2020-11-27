@@ -111,14 +111,15 @@ on a colt, the foal of a donkey.
 [Zechariah 9:9 (ESV)](# "ref")
 
 >>>
-+ Describes the **King**:
-+ **Righteous** (just, vindicated)
++ Zech 9: **promise** our King will rescue
++ v9 **describes** the King:
+  + **Righteous** (just, vindicated)
   + **Saviour** (rescue, deliver, Jesus)
   + **Humble** (afflicted, bowed down)
-+ Crowds ack. Jesus to be **Messiah**/Christ
-  + why Pharisees took **offense**
++ Crowds ack. Jesus to be **Messiah**/Christ:
+  + it's why Pharisees took **offense**
 + But didn't realize what **kind** of King
-+ Not even the **disciples** understood
++ In fact, not even the **disciples** understood
   + **how** Christ was to bring salvation: Lk18
 
 ---
@@ -135,26 +136,47 @@ and they did not **grasp** what was said.
 [Luke 18:31,34 (ESV)](# "ref")
 
 >>>
-+ Theme in mid-Luke: misunderstanding **kingdom** of God
-  + misunderst. who **Messiah** is
++ Abused, **killed**, rise on third day
+  + Disciples, even as **helped fulfill** prophecy, misund
++ Theme mid-Luke: misunderst **kingdom** of God, Messiah
 + Jesus was a man well-acquainted with **sorrows**
   + v41-44 **wept** over Jerusalem
   + her failure to **recognize** her day of redemption
   + He **knew** the suffering He was about to go through
 + Jesus is the **victorious** conquerer, strong to **save**
   + **how** He did it was by **humbling** Himself
-  + in **obedience** to Father's plan
-  + **sacrificing** self to pay for **our** sins
++ in **obedience** to Father's plan, **sacrifice** for sins
 + If this is how my **Master** and **Shepherd** walked,
+  + will I **choose** to follow in His steps?
+
+---
+>>>
++ Every day, **stressors** that challg: **project** not as plan
+  + **Kids** / parents that don't do what I tell them
+  + **Insulted**, belittled, or laughed at
++ No **choice** how others treat me, but choose how I **respond**
++ e.g., when young, single, **hot-headed**: stressed by **church**
+  + Lined up reasons + verses **why** I'm right
+  + Told mom I had **decision**: play hardball or soft
+  + Mom **laughed** gently: why is it even a **question**?
++ If Jesus demonstrated that **humility** + submission
+  + to God's plan is **stronger** than aggression
++ Will I make the same choice?
 
 ---
 <!-- .slide: data-background="white" -->
 # Will I **choose** the path of **humility**?
 
->>>
-
 ---
 ## outline
+
+>>>
++ Our Saviour + King **promises** to rescue us
+  + if we **humbly** follow in
+  + the path of **obedience** He pioneered
++ So we can **rejoice** in the **works** He's done
+  + and the **works** He will do
++ In our sorrow + **desperation**, direct our attention to Him
 
 ---
 The whole multitude of his **disciples** began <br>
@@ -169,9 +191,55 @@ in the **name** of the Lord! <br>
 [Luke 19:37-38 (ESV)](# "ref")
 
 >>>
-+ glory in highest: cf angels at Christmas
-+ Lk audience Gentile so avoided Heb
-+ Ps118: suffering => rescue
++ **Jesus** set in motion, **disciples** made loud, **crowds** joined
+  + **Works** seen from Galilee to Jericho to Bethany
++ **Glory** in highest: cf **angels** at Christmas
++ **Blessed**: Lk audience **non-Jew** so avoided Heb
+  + but other gospels use **Hosanna**
++ Quoting **Ps118**: journey from **affliction** to **rescue**
+
+---
+[5](# "ref")
+Out of my **distress** I called on the Lord;<br>
+the Lord **answered** me and set me **free**.
+
+[8](# "ref")
+It is better to take **refuge** in the Lord<br>
+than to **trust** in man.
+
+[21](# "ref")
+I **thank** you that you have **answered** me<br>
+and have become my **salvation**.
+
+[Psalm 118:5,8,21 (ESV)](# "ref")
+
+>>>
++ Through history, children of **Israel** people of **suffering**
+  + So when we are **afflicted**, opposed by enemies:
++ Follow example of **psalmist**:
+  + **Call** on the Lord
+  + Take **refuge** in Him alone
+  + Give **thanks** for His rescue
++ So when the psalmist **returns** home,
+  + he **enters** the city **gates** to worship:
+
+---
+Open to me the **gates of righteousness**,<br>
+that I may enter through them<br>
+and **give thanks** to the Lord.
+
+[20](# "ref")
+This is the **gate of the Lord**;<br>
+the **righteous** shall enter through it.
+
+[Psalm 118:19-20 (ESV)](# "ref")
+
+>>>
++ This is the **gate** which Jesus now enters
++ He enters to **bring about** salvation
+  + through His **suffering** on our behalf
++ So the **inhabitants** of Jerusalem reply,
+  + with both **plea** and **rejoicing**:
 
 ---
 **Save us**, we **pray**, O Lord!<br>
@@ -185,14 +253,19 @@ We bless you from the house of the Lord.
 [Psalm 118:25-26 (ESV)](# "ref")
 
 >>>
-+ "We plead, Yahweh, save now! We plead, Yahweh, cause us to advance now!"
-+ **Plead** + **now**: earnest request from subord, not entitlement
-  + implore/beseech, directed plea
++ Parallel structure: "We plead, Yahweh, **save** now!"
+  + We plead, Yahweh, cause us to **advance** now!"
 + **Save** (hosanna): rescue (as from enemy / ext. threat)
-  + crowds literally calling out Jesus' name
+  + Crowds literally calling out Jesus' **name**
 + **Success**: rush forward, advance (as army), prosper
-+ **Directed**: to the only one who can
-+ with assurance bc what we've already seen Him do
++ Pair **plead** + **now**: implore, beseech, directed plea
+  + earnest **request** from subord, not demand from entitle
++ **Directed**: to the only one who can save
+  + with **assurance** bc what we've already seen Him do
++ So discip's **actions** in Lk19 fulfilled **prophecy** in Ps118
+  + befit Jesus: **Saviour** to whom Hosanna is directed
+  + the One who opens up the **gates** of righteousness
++ Acct in **John** indicates:
 
 ---
 His disciples did **not understand** these things at first, <br>
@@ -203,21 +276,29 @@ and had been **done** to him.
 [John 21:16 (ESV)](# "ref")
 
 >>>
-+ Jn: disciples knew not then what they did
-+ only after Christ glorified
-+ e.g., pandemic: ack feelings of loss
++ They were **unconscious prophets** (Alexander McLaren):
+  + Acting in **obedience** in the moment
+  + Only **later** realizing **signif** + honour of actions
++ So sometimes we **worship** God out of duty / habit (have to)
+  + But in **hindsight** see eternal **import** of our praise
++ Cry out **Hosanna**: **direct** hope to Christ the Saviour
+  + With **thanksgiving** for what He's already done
++ In what area do I need **rescue** today?
++ e.g., amidst **pandemic**: acknowledge feelings of **loss**:
+  + **masks**, distancing, caring for **kids** at home
+  + **shock** to system, adjustment of daily habits
++ How do I **cope**? Ignore issue? Mad/frust? Resign/depr?
++ Where do I **turn**? Cry out, "Hosanna!" to Lord: "Save!"
 
 ---
 <!-- .slide: data-background="white" -->
 # In what do I need **rescue**?
 
->>>
-+ How do I **cope** with **suffering**?
-+ Where do I turn? 
-+ Cry out, "Hosanna!" to the Lord: "Save!"
-
 ---
 ## outline
+
+>>>
+
 
 ---
 And some of the Pharisees in the crowd <br>
