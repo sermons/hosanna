@@ -297,7 +297,7 @@ the **righteous** shall enter through it.
   + with both **plea** and **rejoicing**:
 
 ---
-<!-- .slide: <%= bg("unsplash-pLJ97CLuYcU-hand.jpg") %>  -->
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 **Save us**, we **pray**, O Lord!<br>
 O Lord, we pray, give us **success**!
 
@@ -307,7 +307,7 @@ in the **name** of the Lord!<br>
 We bless you from the house of the Lord.
 
 [Psalm 118:25-26 (ESV)](# "ref")
-[Oslo, Norway. Akira Hojo](https://unsplash.com/photos/pLJ97CLuYcU)
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 + Parallel structure v25: "We plead, Yahweh, **save** now!"
