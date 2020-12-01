@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
 # Cry Out, "Hosanna!"
 ## Luke 19:35-40
 
@@ -98,7 +98,7 @@ the very stones would cry out.”
 [Luke 19:35-40 (ESV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Hosanna! [(Luke 19)](# "ref")
 1. **Follow** the Humble King [(v35-36)](# "ref")
 1. **Cry Out**, "Hosanna!" [(v37-38)](# "ref")
@@ -116,7 +116,6 @@ the very stones would cry out.”
   + seemingly **dissonant** procession for Him:
 
 ---
-<!-- .slide: <%= bg("unsplash-5DLBoEX99Cs-shirts.jpg") %> -->
 And they brought it to Jesus, <br>
 and throwing their cloaks on the **colt**, <br>
 they set Jesus on it. 
@@ -126,7 +125,6 @@ And as he rode along, <br>
 they spread their **cloaks** on the road. 
 
 [Luke 19:35-36 (ESV)](# "ref")
-[Portland, OR. Nick de Partee](https://unsplash.com/photos/5DLBoEX99Cs "caption")
 
 >>>
 + Clothes on road: reverence for **king**
@@ -135,7 +133,6 @@ they spread their **cloaks** on the road.
 + Acct in Matt (OT **prophecies**) xrefs **Zech**:
 
 ---
-<!-- .slide: <%= bg("unsplash-Aw76eFV8h_E-donkey.jpg") %> -->
 **Rejoice** greatly, O daughter of Zion!<br>
 **Shout** aloud, O daughter of Jerusalem!
 
@@ -146,7 +143,6 @@ Behold, your **king** is coming to you;<br>
 on a colt, the foal of a donkey.
 
 [Zechariah 9:9 (ESV)](# "ref")
-[TS Sergey](https://unsplash.com/photos/Aw76eFV8h_E "caption")
 
 >>>
 + Zech 9: **promise** our King will rescue
@@ -161,7 +157,6 @@ on a colt, the foal of a donkey.
   + **how** Christ was to bring salvation: Lk18
 
 ---
-<!-- .slide: <%= bg("unsplash-UQJP4eEqRV0-camel_caravan.jpg") %> -->
 And taking the **twelve**, he said to them, <br>
 “See, we are going up to **Jerusalem**, and <br>
 everything that is **written** about the Son of Man <br>
@@ -173,7 +168,6 @@ This saying was **hidden** from them, <br>
 and they did not **grasp** what was said.
 
 [Luke 18:31,34 (ESV)](# "ref")
-[Dallol, Ethiopia. Trevor Cole](https://unsplash.com/photos/UQJP4eEqRV0 "caption")
 
 >>>
 + (Abused, **killed**, rise on third day)
@@ -211,11 +205,7 @@ and they did not **grasp** what was said.
 # Will I **choose** the path of **humility**?
 
 ---
-<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
-## Hosanna! [(Luke 19)](# "ref")
-1. Follow the Humble King [(v35-36)](# "ref")
-1. **Cry Out, "Hosanna!"** [(v37-38)](# "ref")
-1. Testify to What He Has Done [(v39-40)](# "ref")
+## outline
 
 >>>
 + Our Saviour + King **promises** to rescue us
@@ -226,7 +216,6 @@ and they did not **grasp** what was said.
 + In our sorrow + **desperation**, direct our attention to Him
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 The whole multitude of his **disciples** began <br>
 to **rejoice** and praise God with a loud voice <br>
 for all the **mighty works** that they had seen, 
@@ -237,7 +226,6 @@ in the **name** of the Lord! <br>
 **Peace** in heaven and **glory** in the highest!” 
 
 [Luke 19:37-38 (ESV)](# "ref")
-[Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
 
 >>>
 + **Jesus** set in motion the celebration,
@@ -250,7 +238,6 @@ in the **name** of the Lord! <br>
   + A few snippets; read the rest:
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [5](# "ref")
 Out of my **distress** I called on the Lord;<br>
 the Lord **answered** me and set me **free**.
@@ -264,7 +251,6 @@ I **thank** you that you have **answered** me<br>
 and have become my **salvation**.
 
 [Psalm 118:5,8,21 (ESV)](# "ref")
-[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
 + Through history, children of **Israel** people of **suffering**
@@ -277,7 +263,6 @@ and have become my **salvation**.
   + he **enters** the city **gates** to worship:
 
 ---
-<!-- .slide: <%= bg("unesco-Jerusalem_Damascus_Gate_108391.jpg") %>  -->
 Open to me the **gates of righteousness**,<br>
 that I may enter through them<br>
 and **give thanks** to the Lord.
@@ -287,7 +272,6 @@ This is the **gate of the Lord**;<br>
 the **righteous** shall enter through it.
 
 [Psalm 118:19-20 (ESV)](# "ref")
-[Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
 + This is the **gate** which Jesus now enters
@@ -297,7 +281,6 @@ the **righteous** shall enter through it.
   + with both **plea** and **rejoicing**:
 
 ---
-<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 **Save us**, we **pray**, O Lord!<br>
 O Lord, we pray, give us **success**!
 
@@ -307,7 +290,6 @@ in the **name** of the Lord!<br>
 We bless you from the house of the Lord.
 
 [Psalm 118:25-26 (ESV)](# "ref")
-[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 + Parallel structure v25: "We plead, Yahweh, **save** now!"
@@ -325,7 +307,6 @@ We bless you from the house of the Lord.
 + Acct in **John** indicates:
 
 ---
-<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 His disciples did **not understand** <br>
 these things at first,
 
@@ -336,7 +317,6 @@ had been **written** about him <br>
 and had been **done** to him.
 
 [John 21:16 (ESV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + They were **unconscious prophets** (Alexander McLaren):
@@ -358,11 +338,7 @@ and had been **done** to him.
 # In what <br> do I need **rescue**?
 
 ---
-<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
-## Hosanna! [(Luke 19)](# "ref")
-1. Follow the Humble King [(v35-36)](# "ref")
-1. Cry Out, "Hosanna!" [(v37-38)](# "ref")
-1. **Testify to What He Has Done** [(v39-40)](# "ref")
+## outline
 
 >>>
 + 1. Our Saviour has **promised** rescue for us
@@ -375,7 +351,6 @@ and had been **done** to him.
 + Not **everyone** in the crowd was **rejoicing**:
 
 ---
-<!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
 And some of the **Pharisees** in the crowd <br>
 said to him, “Teacher, **rebuke** your disciples.” 
 
@@ -385,7 +360,6 @@ He answered, <br>
 the very **stones** would cry out.”
 
 [Luke 19:39-40 (ESV)](# "ref")
-[Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
 + Rebuke: upon **honor**: tell them it's not **right**/proper
@@ -401,7 +375,6 @@ the very **stones** would cry out.”
   + bring up 12 large **stones** from riverbed
 
 ---
-<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 This shall be a **sign** among you; <br>
 when your **children** ask later, saying, <br>
 ‘What do these **stones** mean to you?’ 
@@ -412,7 +385,6 @@ then you shall say to them, <br>
 before the ark of the covenant of the Lord’
 
 [Joshua 4:6-7 (ESV)](# "ref")
-[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + Stones signify **markers**, memorials, delib. + immovable
@@ -425,7 +397,6 @@ before the ark of the covenant of the Lord’
   + one from Jeru coming out to **meet** Him:
 
 ---
-<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 The crowd that had been with him <br>
 when he called **Lazarus** out of the tomb <br>
 and **raised** him from the dead <br>
@@ -436,7 +407,6 @@ The **reason** why the crowd went to meet him <br>
 was that they heard he had done this **sign**.
 
 [John 12:17-18 (ESV)](# "ref")
-[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
 + Crowd that went w/Jesus had **seen** Him raise Laz
@@ -470,7 +440,7 @@ was that they heard he had done this **sign**.
 + To **bear witness** to what God hath **wrought**
 
 ---
-<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
 
 >>>
 + Jesus, Saviour, Messiah, Son of God, Victorious King:

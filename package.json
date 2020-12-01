@@ -13,7 +13,7 @@
     "cname": "hosanna.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "1322a3e7eb7bf275"
+      "id": "22bc761ffc97809b"
     },
     "git": {
       "name": "Sean Ho",
@@ -24,7 +24,7 @@
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
         "date": "2020-11-29",
-        "duration": 25
+        "duration": 0
       }
     ],
     "slides": [
