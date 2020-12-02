@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Cry Out, "Hosanna!"
-## Luke 19:35-40
+# Cry Out, "Hosanna!" <br> 呼求 "和散那”
+## Luke 路加 19:35-40
 
 >>>
 + Today's passage is about a **celebration**!
@@ -15,7 +15,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What do I have to **celebrate** about?
+## What do I have to **celebrate** about?
+## 我要慶祝什麼？
 
 >>>
 + Do the celebrations of a group of **Israelites**
@@ -38,23 +39,36 @@
 + **Strengthen** us to proclaim boldly the witness of Your power
 
 ---
-## The Triumphal Entry
+## The Triumphal Entry 光榮進聖城
 + **Matthew 21:1-11** *(Messiah)*:
   find donkey, Zech9, Hosanna / Ps118, "who is this?"
++ **馬太福音 21:1-11** *(彌賽亞)*:
+  看見一匹驢, 撒迦利亞 9, 和散那 / 詩篇 118 "這是誰?"
 + **Mark 11:1-11** *(Suffering Servant)*:
   find donkey, Hosanna / Ps118
-+ **Luke 19:28-44** *(Saviour to all)*:
-  find donkey, Ps118, stones cry out
-+ **John 12:12-19** *(Son of God)*:
-  Hosanna / Ps118, Zech9, Laz, "whole world after Him!"
++ **馬可福音 11:1-11** *(受苦的僕人)*:
+  看見一匹驢,  和散那 / 詩 篇 118
 
 >>>
 + Today's passage: **triumphal entry**
 + Recorded in all 4 Gospels, each w/diff **emphasis**
-  + Matt: fulfill OT **prophecy**
-  + Mk: **narrative**, Jesus as Suff. Servant: misund.
-  + Lk: **comprehensive** account for non-Jews
-  + Jn: person of Jesus as **God** made man: "I am"
++ Matt: fulfill OT **prophecy**
++ Mk: **narrative**, Jesus as Suff. Servant: misund.
+
+---
+## The Triumphal Entry 光榮進聖城
++ **Luke 19:28-44** *(Saviour to all)*:
+  find donkey, Ps118, stones cry out
++ **路加福音 19:28-44** *(世人的救主)*:
+  看見一匹驢,  詩篇 118, 石頭呼叫
++ **John 12:12-19** *(Son of God)*:
+  Hosanna / Ps118, Zech9, Laz, "whole world after Him!"
++ **約翰福音 12:12-19** *(神的兒子)*:
+  和散那 / 詩篇 118,  撒迦利亞 9, 拉撒路 "世人都跟從他去了"
+
+>>>
++ Lk: **comprehensive** account for non-Jews
++ Jn: person of Jesus as **God** made man: "I am"
 + Luke highlights Jesus' preparation of the **donkey**:
   + **read** together Luke 19:35-40 (ESV):
 
@@ -63,11 +77,17 @@ And they brought it to Jesus, <br>
 and throwing their cloaks on the colt, <br>
 they set Jesus on it. 
 
+他們牽到耶穌那裡，<br>
+把自己的衣服搭在上面，扶著耶穌騎上。
+
 [36](# "ref")
 And as he rode along, <br>
 they spread their cloaks on the road. 
 
-[Luke 19:35-40 (ESV) (p.1/3)](# "ref")
+[36](# "ref")
+走的時候，眾人把衣服鋪在路上。
+
+[Luke 19:35-40 (ESV/CUV) (p.1/4)](# "ref")
 
 ******
 [37](# "ref")
@@ -78,31 +98,53 @@ the whole multitude of his disciples began <br>
 to rejoice and praise God with a loud voice <br>
 for all the mighty works that they had seen, 
 
+[37](# "ref")
+將近耶路撒冷，正下橄欖山的時候，<br>
+眾門徒因所見過的一切異能，<br>
+都歡樂起來，大聲讚美神，
+
+[Luke 19:35-40 (ESV/CUV) (p.2/4)](# "ref")
+
+******
 [38](# "ref")
 saying, “Blessed is the King who comes <br>
 in the name of the Lord! <br>
 Peace in heaven and glory in the highest!” 
 
-[Luke 19:35-40 (ESV) (p.2/3)](# "ref")
+[38](# "ref")
+說：奉主名來的王是應當稱頌的！<br>
+在天上有和平；在至高之處有榮光。
+
+[Luke 19:35-40 (ESV/CUV) (p.3/4)](# "ref")
 
 ******
 [39](# "ref")
 And some of the Pharisees in the crowd <br>
 said to him, “Teacher, rebuke your disciples.” 
 
-[40](# "ref")
-He answered, <br>
-“I tell you, if these were silent, <br>
-the very stones would cry out.”
+[39](# "ref")
+眾人中有幾個法利賽人對耶穌說：<br>
+夫子，責備你的門徒罷！
 
-[Luke 19:35-40 (ESV) (p.3/3)](# "ref")
+[40](# "ref")
+He answered, “I tell you, if these <br>
+were silent, the very stones would cry out.”
+
+[40](# "ref")
+耶穌說：我告訴你們，若是他們閉口不說，<br>
+這些石頭必要呼叫起來。
+
+[Luke 19:35-40 (ESV/CUV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Hosanna! [(Luke 19)](# "ref")
-1. **Follow** the Humble King [(v35-36)](# "ref")
-1. **Cry Out**, "Hosanna!" [(v37-38)](# "ref")
-1. **Testify** to What He Has Done [(v39-40)](# "ref")
+## Hosanna! 和散那! [(Luke 路加 19)](# "ref")
+1. **Follow** the Humble King [(v35-36)](# "ref")<br>
+   **跟隨**謙卑的君王
+1. **Cry Out**, "Hosanna!" [(v37-38)](# "ref")<br>
+   **呼求** "和散那”
+1. **Testify** to What He Has Done [(v39-40)](# "ref")<br>
+   **見證** 祂的做為
 
 >>>
 + 1. Our **Saviour's** promise:
@@ -120,11 +162,17 @@ And they brought it to Jesus, <br>
 and throwing their cloaks on the **colt**, <br>
 they set Jesus on it. 
 
+他們牽到耶穌那裡，<br>
+把自己的衣服搭在上面，扶著耶穌騎上。
+
 [36](# "ref")
 And as he rode along, <br>
 they spread their **cloaks** on the road. 
 
-[Luke 19:35-36 (ESV)](# "ref")
+[36](# "ref")
+走的時候，眾人把衣服鋪在路上。
+
+[Luke 19:35-36 (ESV/CUV)](# "ref")
 
 >>>
 + Clothes on road: reverence for **king**
@@ -136,13 +184,23 @@ they spread their **cloaks** on the road.
 **Rejoice** greatly, O daughter of Zion!<br>
 **Shout** aloud, O daughter of Jerusalem!
 
+錫安的民哪，應當大大喜樂；<br>
+耶路撒冷的民哪，應當歡呼。
+
+[Zechariah 撒迦利亞 9:9 (ESV/CUV) (p.1/2)](# "ref")
+
+---
 Behold, your **king** is coming to you;<br>
 **righteous** and having **salvation** is he,
 
 **humble** and mounted on a **donkey**,<br>
 on a colt, the foal of a donkey.
 
-[Zechariah 9:9 (ESV)](# "ref")
+看哪，你的王來到你這裡！<br>
+他是公義的，並且施行拯救，<br>
+謙謙和和地騎著驢，就是騎著驢的駒子。
+
+[Zechariah 撒迦利亞 9:9 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Zech 9: **promise** our King will rescue
