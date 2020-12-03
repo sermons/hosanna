@@ -87,7 +87,7 @@ they spread their cloaks on the road.
 [36](# "ref")
 走的時候，眾人把衣服鋪在路上。
 
-[Luke 19:35-40 (ESV/CUV) (p.1/4)](# "ref")
+[Luke 路加 19:35-40 (ESV/CUV) (p.1/4)](# "ref")
 
 ******
 [37](# "ref")
@@ -103,7 +103,7 @@ for all the mighty works that they had seen,
 眾門徒因所見過的一切異能，<br>
 都歡樂起來，大聲讚美神，
 
-[Luke 19:35-40 (ESV/CUV) (p.2/4)](# "ref")
+[Luke 路加 19:35-40 (ESV/CUV) (p.2/4)](# "ref")
 
 ******
 [38](# "ref")
@@ -115,7 +115,7 @@ Peace in heaven and glory in the highest!”
 說：奉主名來的王是應當稱頌的！<br>
 在天上有和平；在至高之處有榮光。
 
-[Luke 19:35-40 (ESV/CUV) (p.3/4)](# "ref")
+[Luke 路加 19:35-40 (ESV/CUV) (p.3/4)](# "ref")
 
 ******
 [39](# "ref")
@@ -134,7 +134,7 @@ were silent, the very stones would cry out.”
 耶穌說：我告訴你們，若是他們閉口不說，<br>
 這些石頭必要呼叫起來。
 
-[Luke 19:35-40 (ESV/CUV) (p.4/4)](# "ref")
+[Luke 路加 19:35-40 (ESV/CUV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="outline" class="outline" -->
@@ -173,7 +173,7 @@ they spread their **cloaks** on the road.
 [36](# "ref")
 走的時候，眾人把衣服鋪在路上。
 
-[Luke 19:35-36 (ESV/CUV)](# "ref")
+[Luke 路加 19:35-36 (ESV/CUV)](# "ref")
 
 >>>
 + Clothes on road: reverence for **king**
@@ -222,18 +222,31 @@ on a colt, the foal of a donkey.
 And taking the **twelve**, he said to them, <br>
 “See, we are going up to **Jerusalem**, and <br>
 everything that is **written** about the Son of Man <br>
-by the **prophets** will be accomplished....
+by the **prophets** will be accomplished
 
-[34](# "ref")
-But they understood **none** of these things. <br>
-This saying was **hidden** from them, <br>
-and they did not **grasp** what was said.
+耶穌帶著十二個門徒，對他們說：<br>
+看哪，我們上耶路撒冷去，<br>
+先知所寫的一切事都要成就在人子身上。
 
-[Luke 18:31,34 (ESV)](# "ref")
+[Luke 路加 18:31 (ESV/CUV)](# "ref")
 [Dallol, Ethiopia. Trevor Cole](https://unsplash.com/photos/UQJP4eEqRV0 "caption")
 
 >>>
 + (Abused, **killed**, rise on third day)
+
+---
+<!-- .slide: <%= bg("unsplash-UQJP4eEqRV0-camel_caravan.jpg") %> -->
+But they understood **none** of these things. <br>
+This saying was **hidden** from them, <br>
+and they did not **grasp** what was said.
+
+這些事門徒一樣也不懂得，<br>
+意思乃是隱藏的；<br>
+他們不曉得所說的是甚麼。
+
+[Luke 路加 18:34 (ESV/CUV)](# "ref")
+
+>>>
 + Disciples, even as **helped fulfill** prophecy, misunder
 + Theme mid-Luke: misunder **kingdom** of God, Messiah
 + Jesus was a man well-acquainted with **sorrows**
@@ -265,7 +278,8 @@ and they did not **grasp** what was said.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I **choose** the path of **humility**?
+## Will I **choose** the path of **humility**?
+## 我會選擇謙卑的道路嗎?
 
 ---
 ## outline
@@ -284,13 +298,24 @@ The whole multitude of his **disciples** began <br>
 to **rejoice** and praise God with a loud voice <br>
 for all the **mighty works** that they had seen, 
 
-[38](# "ref")
+將近耶路撒冷，正下橄欖山的時候，<br>
+眾門徒因所見過的一切異能，<br>
+都歡樂起來，大聲讚美神，
+
+[Luke 路加 19:37-38 (ESV/CUV) (p.1/2)](# "ref")
+[Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
+
 saying, “Blessed is the **King** who comes <br>
 in the **name** of the Lord! <br>
 **Peace** in heaven and **glory** in the highest!” 
 
-[Luke 19:37-38 (ESV)](# "ref")
-[Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
+說：奉主名來的王是應當稱頌的！<br>
+在天上有和平；在至高之處有榮光。
+
+[Luke 路加 19:37-38 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **Jesus** set in motion the celebration,
@@ -308,16 +333,30 @@ in the **name** of the Lord! <br>
 Out of my **distress** I called on the Lord;<br>
 the Lord **answered** me and set me **free**.
 
+我在急難中求告耶和華，<br>
+他就應允我，把我安置在寬闊之地
+
+[Psalm 詩篇 118:5,8,21 (ESV/CUV) (p.1/2)](# "ref")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [8](# "ref")
 It is better to take **refuge** in the Lord<br>
 than to **trust** in man.
+
+[8](# "ref")
+投靠耶和華，強似倚賴人；
 
 [21](# "ref")
 I **thank** you that you have **answered** me<br>
 and have become my **salvation**.
 
-[Psalm 118:5,8,21 (ESV)](# "ref")
-[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+[21](# "ref")
+我要稱謝你，因為你已經應允我，<br>
+又成了我的拯救！
+
+[Psalm 詩篇 118:5,8,21 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Through history, children of **Israel** people of **suffering**
@@ -335,11 +374,16 @@ Open to me the **gates of righteousness**,<br>
 that I may enter through them<br>
 and **give thanks** to the Lord.
 
+給我敞開義門；我要進去稱謝耶和華！
+
 [20](# "ref")
 This is the **gate of the Lord**;<br>
 the **righteous** shall enter through it.
 
-[Psalm 118:19-20 (ESV)](# "ref")
+[20](# "ref")
+這是耶和華的門；義人要進去！
+
+[Psalm 詩篇 118:19-20 (ESV/CUV)](# "ref")
 [Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
@@ -354,12 +398,19 @@ the **righteous** shall enter through it.
 **Save us**, we **pray**, O Lord!<br>
 O Lord, we pray, give us **success**!
 
+耶和華啊，求你拯救！<br>
+耶和華啊，求你使我們亨通！
+
 [26](# "ref")
-**Blessed** is he who comes <br>
-in the **name** of the Lord!<br>
+**Blessed** is he who comes in the **name** of <br>
+the Lord!
 We bless you from the house of the Lord.
 
-[Psalm 118:25-26 (ESV)](# "ref")
+[26](# "ref")
+奉耶和華名來的是應當稱頌的！<br>
+我們從耶和華的殿中為你們祝福！
+
+[Psalm 詩篇 118:25-26 (ESV/CUV)](# "ref")
 [Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
@@ -382,14 +433,24 @@ We bless you from the house of the Lord.
 His disciples did **not understand** <br>
 these things at first,
 
+這些事門徒起先不明白，
+
+[John 12:16 (ESV/CUV) (p.1/2)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 but when Jesus was **glorified**, <br>
 then they **remembered** that these things
 
 had been **written** about him <br>
 and had been **done** to him.
 
-[John 21:16 (ESV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
+等到耶穌得了榮耀以後<br>
+才想起這話是指著他寫的，<br>
+並且眾人果然向他這樣行了。
+
+[John 12:16 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + They were **unconscious prophets** (Alexander McLaren):
@@ -408,7 +469,8 @@ and had been **done** to him.
 
 ---
 <!-- .slide: data-background="white" -->
-# In what <br> do I need **rescue**?
+## In what do I need **rescue**?
+## 我在哪方面需要幫助?
 
 ---
 ## outline
@@ -428,12 +490,18 @@ and had been **done** to him.
 And some of the **Pharisees** in the crowd <br>
 said to him, “Teacher, **rebuke** your disciples.” 
 
-[40](# "ref")
-He answered, <br>
-“I tell you, if these were **silent**, <br>
-the very **stones** would cry out.”
+眾人中有幾個法利賽人對耶穌說：<br>
+夫子，責備你的門徒罷！
 
-[Luke 19:39-40 (ESV)](# "ref")
+[40](# "ref")
+He answered, “I tell you, if these <br>
+were **silent**, the very **stones** would cry out.”
+
+[40](# "ref")
+耶穌說：我告訴你們，若是他們閉口不說，<br>
+這些石頭必要呼叫起來。
+
+[Luke 路加 19:39-40 (ESV/CUV)](# "ref")
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
@@ -455,13 +523,27 @@ This shall be a **sign** among you; <br>
 when your **children** ask later, saying, <br>
 ‘What do these **stones** mean to you?’ 
 
+這些石頭在你們中間可以作為證據。<br>
+日後，你們的子孫問你們說：<br>
+這些石頭是甚麼意思？
+
+[Joshua 約書亞記 4:6-7 (ESV/CUV) (p.1/2)](# "ref")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 [7](# "ref")
 then you shall say to them, <br>
 ‘That the waters of the **Jordan** were cut off <br>
 before the ark of the covenant of the Lord’
 
-[Joshua 4:6-7 (ESV)](# "ref")
-[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+[7](# "ref")
+你們就對他們說：<br>
+這是因為約但河的水在耶和華的約櫃前斷絕；<br>
+約櫃過約但河的時候，<br>
+約但河的水就斷絕了。
+
+[Joshua 約書亞記 4:6-7 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Stones signify **markers**, memorials, delib. + immovable
@@ -480,12 +562,24 @@ when he called **Lazarus** out of the tomb <br>
 and **raised** him from the dead <br>
 continued to **bear witness**. 
 
+當耶穌呼喚拉撒路，<br>
+叫他從死復活出墳墓的時候，<br>
+同耶穌在那裡的眾人就作見證。
+
+[John 約翰 12:17-18 (ESV/CUV) (p.1/2)](# "ref")
+[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 [18](# "ref")
 The **reason** why the crowd went to meet him <br>
 was that they heard he had done this **sign**.
 
-[John 12:17-18 (ESV)](# "ref")
-[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
+[18](# "ref")
+眾人因聽見耶穌行了這神蹟，<br>
+就去迎接他。
+
+[John 約翰 12:17-18 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Crowd that went w/Jesus had **seen** Him raise Laz
@@ -504,7 +598,8 @@ was that they heard he had done this **sign**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I bear **witness** <br> to what <br> God has **done**? 
+## Do I bear **witness** to what God has **done**? 
+## 我見證了 神的做為嗎?
 
 >>>
 + Jesus' triumphal entry into Jerusalem reminds us of
