@@ -16,7 +16,7 @@
 ---
 <!-- .slide: data-background="white" -->
 # What do I have to **celebrate** about?
-# 我要慶祝什麼？
+# 我要慶祝什麼?
 
 >>>
 + Do the celebrations of a group of **Israelites**
