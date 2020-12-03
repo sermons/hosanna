@@ -15,8 +15,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## What do I have to **celebrate** about?
-## 我要慶祝什麼？
+# What do I have to **celebrate** about?
+# 我要慶祝什麼？
 
 >>>
 + Do the celebrations of a group of **Israelites**
@@ -39,14 +39,14 @@
 + **Strengthen** us to proclaim boldly the witness of Your power
 
 ---
-## The Triumphal Entry 光榮進聖城
+## The Triumphal Entry <br>光榮進聖城
 + **Matthew 21:1-11** *(Messiah)*:
   find donkey, Zech9, Hosanna / Ps118, "who is this?"
 + **馬太福音 21:1-11** *(彌賽亞)*:
   看見一匹驢, 撒迦利亞 9, 和散那 / 詩篇 118 "這是誰?"
-+ **Mark 11:1-11** *(Suffering Servant)*:
++ **Mark 11:1-11** *(Suffering Servant)*:<br>
   find donkey, Hosanna / Ps118
-+ **馬可福音 11:1-11** *(受苦的僕人)*:
++ **馬可福音 11:1-11** *(受苦的僕人)*:<br>
   看見一匹驢,  和散那 / 詩 篇 118
 
 >>>
@@ -56,10 +56,10 @@
 + Mk: **narrative**, Jesus as Suff. Servant: misund.
 
 ---
-## The Triumphal Entry 光榮進聖城
-+ **Luke 19:28-44** *(Saviour to all)*:
+## The Triumphal Entry <br>光榮進聖城
++ **Luke 19:28-44** *(Saviour to all)*:<br>
   find donkey, Ps118, stones cry out
-+ **路加福音 19:28-44** *(世人的救主)*:
++ **路加福音 19:28-44** *(世人的救主)*:<br>
   看見一匹驢,  詩篇 118, 石頭呼叫
 + **John 12:12-19** *(Son of God)*:
   Hosanna / Ps118, Zech9, Laz, "whole world after Him!"
@@ -139,12 +139,12 @@ were silent, the very stones would cry out.”
 ---
 <!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="outline" class="outline" -->
 ## Hosanna! 和散那! [(Luke 路加 19)](# "ref")
-1. **Follow** the Humble King [(v35-36)](# "ref")<br>
-   **跟隨**謙卑的君王
-1. **Cry Out**, "Hosanna!" [(v37-38)](# "ref")<br>
-   **呼求** "和散那”
-1. **Testify** to What He Has Done [(v39-40)](# "ref")<br>
-   **見證** 祂的做為
+1. **Follow** the Humble King
+   **跟隨**謙卑的君王 [(v35-36)](# "ref")<br>
+1. **Cry Out**, "Hosanna!"
+   **呼求** "和散那” [(v37-38)](# "ref")<br>
+1. **Testify** to What He Has Done
+   **見證** 祂的做為 [(v39-40)](# "ref")<br>
 
 >>>
 + 1. Our **Saviour's** promise:
@@ -228,7 +228,7 @@ by the **prophets** will be accomplished
 看哪，我們上耶路撒冷去，<br>
 先知所寫的一切事都要成就在人子身上。
 
-[Luke 路加 18:31 (ESV/CUV)](# "ref")
+[Luke 路加 18:31,34 (ESV/CUV) (p.1/2)](# "ref")
 [Dallol, Ethiopia. Trevor Cole](https://unsplash.com/photos/UQJP4eEqRV0 "caption")
 
 >>>
@@ -244,7 +244,7 @@ and they did not **grasp** what was said.
 意思乃是隱藏的；<br>
 他們不曉得所說的是甚麼。
 
-[Luke 路加 18:34 (ESV/CUV)](# "ref")
+[Luke 路加 18:31,34 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Disciples, even as **helped fulfill** prophecy, misunder
@@ -278,8 +278,8 @@ and they did not **grasp** what was said.
 
 ---
 <!-- .slide: data-background="white" -->
-## Will I **choose** the path of **humility**?
-## 我會選擇謙卑的道路嗎?
+# Will I **choose** the path of **humility**?
+# 我會選擇謙卑<br>的道路嗎?
 
 ---
 ## outline
@@ -402,8 +402,7 @@ O Lord, we pray, give us **success**!
 耶和華啊，求你使我們亨通！
 
 [26](# "ref")
-**Blessed** is he who comes in the **name** of <br>
-the Lord!
+**Blessed** is he who comes in the **name** of the Lord!
 We bless you from the house of the Lord.
 
 [26](# "ref")
@@ -469,8 +468,8 @@ and had been **done** to him.
 
 ---
 <!-- .slide: data-background="white" -->
-## In what do I need **rescue**?
-## 我在哪方面需要幫助?
+# In what <br> do I need **rescue**?
+# 我在哪方面<br> 需要幫助?
 
 ---
 ## outline
@@ -598,8 +597,8 @@ was that they heard he had done this **sign**.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I bear **witness** to what God has **done**? 
-## 我見證了 神的做為嗎?
+# Do I bear **witness** <br> to what <br> God has **done**? 
+# 我見證了 <br> 神的做為嗎?
 
 >>>
 + Jesus' triumphal entry into Jerusalem reminds us of
