@@ -601,7 +601,7 @@ was that they heard he had done this **sign**.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I bear **witness** to what God has **done**? 
+## Do I bear **witness** to <br> what God has **done**? 
 # 我見證了 <br> 神的做為嗎?
 
 >>>
