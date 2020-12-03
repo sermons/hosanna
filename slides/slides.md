@@ -39,11 +39,13 @@
 + **Strengthen** us to proclaim boldly the witness of Your power
 
 ---
-## The Triumphal Entry <br>光榮進聖城
+## The Triumphal Entry 光榮進聖城
+<!-- .element: style="font-size: 1.4rem" -->
+
 + **Matthew 21:1-11** *(Messiah)*:
   find donkey, Zech9, Hosanna / Ps118, "who is this?"
 + **馬太福音 21:1-11** *(彌賽亞)*:
-  看見一匹驢, 撒迦利亞 9, 和散那 / 詩篇 118 "這是誰?"
+  看見一匹驢, <br> 撒迦利亞 9, 和散那 / 詩篇 118, "這是誰?"
 + **Mark 11:1-11** *(Suffering Servant)*:<br>
   find donkey, Hosanna / Ps118
 + **馬可福音 11:1-11** *(受苦的僕人)*:<br>
@@ -56,7 +58,9 @@
 + Mk: **narrative**, Jesus as Suff. Servant: misund.
 
 ---
-## The Triumphal Entry <br>光榮進聖城
+## The Triumphal Entry 光榮進聖城
+<!-- .element: style="font-size: 1.4rem" -->
+
 + **Luke 19:28-44** *(Saviour to all)*:<br>
   find donkey, Ps118, stones cry out
 + **路加福音 19:28-44** *(世人的救主)*:<br>
@@ -139,12 +143,12 @@ were silent, the very stones would cry out.”
 ---
 <!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> id="outline" class="outline" -->
 ## Hosanna! 和散那! [(Luke 路加 19)](# "ref")
-1. **Follow** the Humble King
-   **跟隨**謙卑的君王 [(v35-36)](# "ref")<br>
-1. **Cry Out**, "Hosanna!"
-   **呼求** "和散那” [(v37-38)](# "ref")<br>
-1. **Testify** to What He Has Done
-   **見證** 祂的做為 [(v39-40)](# "ref")<br>
+1. **Follow** the Humble King<br>
+   **跟隨**謙卑的君王 [(v35-36)](# "ref")
+1. **Cry Out**, "Hosanna!"<br>
+   **呼求** "和散那” [(v37-38)](# "ref")
+1. **Testify** to What He Has Done<br>
+   **見證** 祂的做為 [(v39-40)](# "ref")
 
 >>>
 + 1. Our **Saviour's** promise:
@@ -597,7 +601,7 @@ was that they heard he had done this **sign**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I bear **witness** <br> to what <br> God has **done**? 
+## Do I bear **witness** to what God has **done**? 
 # 我見證了 <br> 神的做為嗎?
 
 >>>
