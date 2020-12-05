@@ -286,7 +286,14 @@ and they did not **grasp** what was said.
 # 我會選擇謙卑<br>的道路嗎?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
+## Hosanna! 和散那! [(Luke 路加 19)](# "ref")
+1. Follow the Humble King<br>
+   跟隨謙卑的君王 [(v35-36)](# "ref")
+1. **Cry Out, "Hosanna!"** <br>
+   **呼求 "和散那”** [(v37-38)](# "ref")
+1. Testify to What He Has Done<br>
+   見證 祂的做為 [(v39-40)](# "ref")
 
 >>>
 + Our Saviour + King **promises** to rescue us
@@ -476,7 +483,14 @@ and had been **done** to him.
 # 我在哪方面<br> 需要幫助?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> class="outline" -->
+## Hosanna! 和散那! [(Luke 路加 19)](# "ref")
+1. Follow the Humble King<br>
+   跟隨謙卑的君王 [(v35-36)](# "ref")
+1. Cry Out, "Hosanna!" <br>
+   呼求 "和散那” [(v37-38)](# "ref")
+1. **Testify to What He Has Done**<br>
+   **見證 祂的做為** [(v39-40)](# "ref")
 
 >>>
 + 1. Our Saviour has **promised** rescue for us
