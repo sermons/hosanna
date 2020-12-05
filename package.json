@@ -21,10 +21,16 @@
     },
     "history": [
       {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbottsford",
+        "date": "2020-12-06",
+        "duration": 38
+      },
+      {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
         "date": "2020-11-29",
-        "duration": 0
+        "duration": 25
       }
     ],
     "slides": [
