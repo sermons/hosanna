@@ -1,7 +1,7 @@
 {
   "name": "@sermons/hosanna",
   "repository": "sermons/hosanna",
-  "description": "Lk19:35-40 Cry Out, Hosanna! 呼求 和散那",
+  "description": "Lk19:35-40 Cry Out, Hosanna!",
   "keywords": [
     "slides",
     "luke"
@@ -20,6 +20,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2020-12-13",
+        "duration": 38
+      },
       {
         "venue": "Zion Christian Reformed Church",
         "city": "Abbottsford",
